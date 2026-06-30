@@ -1,5 +1,5 @@
 <div align="center">
-  <h2> 🐾 Welcome to the Vision Lab! I'm Gyu Min Kang </h2>
+  <h2> 🐾 Welcome to the Vision Lab! </h2>
   <p><i>"Pushing the boundaries of Edge AI and Manufacturing Intelligence."</i></p>
 </div>
 
@@ -8,7 +8,7 @@
 ### 🦉 About Me
 *   **Education:** 산업경영공학과 및 데이터사이언스학과 학부 졸업 후, 경희대학교 인공지능학과 석사과정을 졸업했습니다[cite: 3].
 *   **Focus:** Vision AI, 엣지 디바이스 알고리즘 경량화, 자율주행 객체 인식, 이상 탐지(Anomaly Detection)
-*   **Contact:** rbals985865@khu.ac.kr[cite: 1]
+*   **Contact:** rbals985865@khu.ac.kr
 
 ---
 
