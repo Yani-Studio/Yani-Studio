@@ -1,5 +1,5 @@
 <div align="center">
-  <h2> 🐾 Welcome to the Vision Lab! </h2>
+  <h2> 🐾 Welcome to the Yani-Studio Lab! </h2>
   <p><i>"Pushing the boundaries of Edge AI and Manufacturing Intelligence."</i></p>
 </div>
 
