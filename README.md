@@ -1,21 +1,34 @@
 <div align="center">
-  <h1>🚀 Welcome to the Yani-Studio Lab!</h1>
+  <!-- ⚡ Animated Neon Purple & Cyber Gradient Header -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=30,bd00ff,d600ff,7300ff,00b8ff&height=200&section=header&text=Yani-Studio%20Lab&fontSize=50&fontColor=ffffff&animation=twinkling" alt="Yani-Studio Lab Neon Banner" />
+  
   <p><b>"Pushing the Boundaries of Edge AI & Manufacturing Intelligence"</b></p>
   <p>생산 현장의 제한된 하드웨어 리소스를 극복하고, 모델 경량화 및 실시간 데이터 파이프라인을 통해 산업 도메인의 병목을 해결합니다.</p>
+  
+  <br/>
 
+  <!-- 🌐 Language Switching Buttons (Neon Purple Accent) -->
+  <p>
+    <a href="./README.md">
+      <img src="https://img.shields.io/badge/Language-KO%20%7C%20%ED%95%9C%EA%B5%AD%EC%96%B4-BD00FF?style=for-the-badge" alt="Korean"/>
+    </a>
+    <a href="./README_EN.md">
+      <img src="https://img.shields.io/badge/Language-EN%20%7C%20English-707070?style=for-the-badge" alt="English"/>
+    </a>
+  </p>
 </div>
 
 ---
 
-## 👨‍💻 Core Competencies
+## 💜 Core Competencies
 
-* 🎓 **Education:** 경희대학교 인공지능학과 석사 졸업 | 경기권 4년제 대학 산업경영공학과·데이터사이언스학과 학사 졸업
+* 🎓 **Education:** 경희대학교 인공지능학과 석사 졸업 (AI 전공) | 경기권 4년제 대학 산업경영공학과·데이터사이언스학과 학사 졸업
 * 🎯 **Research Focus:** Machine Vision & Edge AI | Enterprise AI & RAG (NL2SQL) | Time-Series Forecasting & PHM | Operations Research
 * ✉️ **Contact:** rbals985865@naver.com | rbals985865@khu.ac.kr
 
 ---
 
-## 📊 Project & Research Overview
+## ⚡ Project & Research Overview
 
 > 💡 **주요 연구 및 프로젝트 요약 장표** (기술 스택 및 핵심 성과 기반)
 
@@ -30,9 +43,9 @@
 
 ---
 
-## 🚀 Core Research & Projects
+## 🔮 Core Research & Projects
 
-### 🛠️ 1. Vision AI & Edge Deployment
+### 🦄 1. Vision AI & Edge Deployment
 
 * **[SCIE 1저자] 반도체 웨이퍼 결함 분류 초경량화 AI (SCRBLAA-Net)**
   * 고차원 특징 분할 및 토큰화 메커니즘을 통해 대규모 비전 모델의 과적합 및 데이터 유실 원천 차단.
@@ -61,7 +74,7 @@
 
 ---
 
-### 🧠 2. Enterprise AI & Large Language Models
+### 🧬 2. Enterprise AI & Large Language Models
 
 * **[100% 온프레미스] 차세대 RAG-NL2SQL 보안형 ERP 엔진**
   * 기업 내부 핵심 자산 유출 방지를 위해 Ollama 기반 100% 로컬 네트워크 구동 RAG 아키텍처 설계.
@@ -73,7 +86,7 @@
 
 ---
 
-### 📈 3. Time Series & Predictive Maintenance (PHM)
+### ⏳ 3. Time Series & Predictive Maintenance (PHM)
 
 * **[Walmart ERP] 4,700만 건 대규모 공급망 수요 예측 메타 앙상블**
   * 데이터 내 80% 이상 존재하는 영과잉(Zero-inflated) 불연속 특성을 극복하기 위해 Two-Stage Hurdle 아키텍처 고안.
@@ -93,7 +106,7 @@
 
 ---
 
-### 🎯 4. Operations Research & Industrial Optimization
+### 🌌 4. Operations Research & Industrial Optimization
 
 * **[Google OR-Tools] 대규모 AGV 물류 라우팅 병목 최적화**
   * 차량 경로 최적화(VRP) 프레임워크와 메타휴리스틱(GLS) 알고리즘을 융합하여 물류 이동 중 데드락(교착 상태) 완전 해소.
@@ -116,6 +129,12 @@
 ## 🛠️ Tech Stack & Arsenal
 
 ### Hardware & Compute Infrastructure
+
+| Asset Type | Target System / Environment | Key Specification | Operational Role |
+| :--- | :--- | :--- | :--- |
+| **Deep Learning Rig** | NVIDIA DGX Spark Server | 128GB System RAM / High-Performance Node | 대규모 비전 모델 학습 및 가상 시뮬레이션 인프라 |
+| **Local Workstation** | Apple MacBook Pro M5 | 24GB Unified Memory / Apple Silicon Architecture | 경량화 모델 프로토타이핑, 온프레미스 RAG 인프라 개발 |
+
 <p>
   <img src="https://img.shields.io/badge/NVIDIA_DGX_Spark-76B900?style=for-the-badge&logo=nvidia&logoColor=white"/>
   <img src="https://img.shields.io/badge/128GB_System_RAM-515151?style=for-the-badge&logo=databricks&logoColor=white"/>
