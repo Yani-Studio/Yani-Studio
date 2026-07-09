@@ -1,4 +1,23 @@
-<img src="https://raw.githubusercontent.com/Yani-Studio/banner.svg/main/banner.svg" alt="Yani-Studio Lab Dynamic Banner" width="100%" />
+<div align="center">
+  <img src="banner.svg" alt="Yani-Studio Lab Static Banner" width="100%" />
+  
+  <p align="center">
+    <img src="https://readme-typing-svg.demolab.com?font=Noto+Sans+KR&fontSize=22&duration=3000&pause=1000&color=C084FC&center=true&vCenter=true&width=650&height=50&lines=%EB%A8%B8%EC%8B%A0%EB%B9%84%EC%A0%84%20%26%20Edge%20AI;%EC%97%94%ED%84%B0%ED%94%84%EB%9D%BC%EC%9D%B4%EC%A6%88%20AI%20%26%20RAG%20(NL2SQL);%EC%8B%9C%EA%B3%84%EC%97%B4%20%EC%98%88%EC%B8%A1%20%26%20PHM%20(%EC%98%88%EC%A7%80%EB%B3%B4%EC%A0%84);%EC%82%B0%EC%97%85%20%EC%B5%9C%EC%A0%81%ED%99%94%20%26%20Operations%20Research" alt="Typing SVG" />
+  </p>
+  
+  <p>생산 현장의 제한된 하드웨어 리소스를 극복하고, 모델 경량화 및 실시간 데이터 파이프라인을 통해 산업 도메인의 병목을 해결합니다.</p>
+  
+  <br/>
+
+  <p>
+    <a href="./README.md">
+      <img src="https://img.shields.io/badge/Language-KO%20%7C%20%ED%95%9C%EA%B5%AD%EC%96%B4-C084FC?style=for-the-badge" alt="Korean"/>
+    </a>
+    <a href="./README_EN.md">
+      <img src="https://img.shields.io/badge/Language-EN%20%7C%20English-707070?style=for-the-badge" alt="English"/>
+    </a>
+  </p>
+</div>
 
 ---
 
