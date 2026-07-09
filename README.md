@@ -115,6 +115,13 @@
 
 ## 🛠️ Tech Stack & Arsenal
 
+### Hardware & Compute Infrastructure
+<p>
+  <img src="https://img.shields.io/badge/NVIDIA_DGX_Spark-76B900?style=for-the-badge&logo=nvidia&logoColor=white"/>
+  <img src="https://img.shields.io/badge/128GB_System_RAM-515151?style=for-the-badge&logo=databricks&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MacBook_Pro_M5-000000?style=for-the-badge&logo=apple&logoColor=white"/>
+</p>
+
 ### AI & Data Science Pipeline
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
@@ -137,9 +144,4 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 </p>
 
-### Hardware & Compute Infrastructure
-<p>
-  <img src="https://img.shields.io/badge/NVIDIA_DGX_Spark-76B900?style=for-the-badge&logo=nvidia&logoColor=white"/>
-  <img src="https://img.shields.io/badge/128GB_System_RAM-515151?style=for-the-badge&logo=databricks&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MacBook_Pro_M5-000000?style=for-the-badge&logo=apple&logoColor=white"/>
-</p>
+
