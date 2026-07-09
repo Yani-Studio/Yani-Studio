@@ -6,8 +6,8 @@
 ---
 
 ### 🐾 About Me
-*   **Education:** 산업경영공학과 및 데이터사이언스학과 학부 졸업 후, 경희대학교 인공지능학과 석사과정을 졸업했습니다[cite: 3].
-*   **Focus:** Vision AI, 엣지 디바이스 알고리즘 경량화, 자율주행 객체 인식, 이상 탐지(Anomaly Detection)
+*   **Education:** 산업경영공학과 및 데이터사이언스학과 학부 졸업 후, 경희대학교 인공지능학과 석사과정을 졸업했습니다.
+*   **Focus:** 머신비전 및 엣지 AI, 엔터프라이즈 AI 및 자연어 처리, 시계열 예측 및 예지보전, ERP
 *   **Contact:** rbals985865@naver.com , rbals985865@khu.ac.kr
 
 ---
