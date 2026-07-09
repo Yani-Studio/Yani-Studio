@@ -2,6 +2,17 @@
   <h1>🚀 Welcome to the Yani-Studio Lab!</h1>
   <p><b>"Pushing the Boundaries of Edge AI & Manufacturing Intelligence"</b></p>
   <p>생산 현장의 제한된 하드웨어 리소스를 극복하고, 모델 경량화 및 실시간 데이터 파이프라인을 통해 산업 도메인의 병목을 해결합니다.</p>
+  
+  <br/>
+
+  <p>
+    <a href="./README.md">
+      <img src="https://img.shields.io/badge/Language-KO%20%7C%20%ED%95%9C%EA%B5%AD%EC%96%B4-3182F6?style=for-the-badge" alt="Korean"/>
+    </a>
+    <a href="./README_EN.md">
+      <img src="https://img.shields.io/badge/Language-EN%20%7C%20English-707070?style=for-the-badge" alt="English"/>
+    </a>
+  </p>
 </div>
 
 ---
@@ -132,5 +143,3 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
 </p>
-
-
