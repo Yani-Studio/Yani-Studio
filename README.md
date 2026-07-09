@@ -1,31 +1,10 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=wave&color=gradient&customColorList=E6E6FA,D8B4FE,C084FC,BCA7FF,9E85FF&height=180&section=header&text=Yani-Studio%20Lab&fontSize=50&fontColor=ffffff&fontAlignY=35" alt="Yani-Studio Lab Banner" />
+  <!-- 🌌 내 저장소의 실시간 변색+일렁이는 첨단 보라색 SVG 배너 로드 -->
+  <img src="./banner.svg" alt="Yani-Studio Lab Dynamic Banner" width="100%" />
   
+  <!-- ⚡ 반짝이며 실시간으로 바뀌는 은은한 연보라색 네온 타이핑 스크립트 -->
   <p align="center">
     <img src="https://readme-typing-svg.demolab.com?font=Orbitron&fontSize=23&duration=2500&pause=1000&color=C084FC&center=true&vCenter=true&width=600&height=50&lines=%22Pushing+the+Boundaries+of+Edge+AI%22;%22Manufacturing+Intelligence+%26+Optimization%22;%22Overcoming+Hardware+Limitations%22" alt="Typing SVG" />
-  </p>
-  
-  <p>생산 현장의 제한된 하드웨어 리소스를 극복하고, 모델 경량화 및 실시간 데이터 파이프라인을 통해 산업 도메인의 병목을 해결합니다.</p>
-  
-  <br/>
-
-  <p>
-    <a href="./README.md">
-      <img src="https://img.shields.io/badge/Language-KO%20%7C%20%ED%95%9C%EA%B5%AD%EC%96%B4-C084FC?style=for-the-badge" alt="Korean"/>
-    </a>
-    <a href="./README_EN.md">
-      <img src="https://img.shields.io/badge/Language-EN%20%7C%20English-707070?style=for-the-badge" alt="English"/>
-    </a>
-  </p>
-</div>
-
-<div align="center">
-  <!-- 🌌 은은하고 화사한 연보라(Lavender Neon) 그라데이션 웨이브 배너 -->
-  <img src="https://capsule-render.vercel.app/api?type=wave&color=gradient&customColorList=7F5AF0,BCA7FF,C084FC,D8B4FE,E6E6FA&height=180&section=header&text=Yani-Studio%20Lab&fontSize=50&fontColor=ffffff&fontAlignY=35" alt="Yani-Studio Lab Banner" />
-  
-  <!-- ⚡ 실시간으로 구동되는 연보라색 네온 타이핑 스크립트 -->
-  <p align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=Orbitron&fontSize=23&duration=2500&pause=1000&color=D8B4FE&center=true&vCenter=true&width=600&height=50&lines=%22Pushing+the+Boundaries+of+Edge+AI%22;%22Manufacturing+Intelligence+%26+Optimization%22;%22Overcoming+Hardware+Limitations%22" alt="Typing SVG" />
   </p>
   
   <p>생산 현장의 제한된 하드웨어 리소스를 극복하고, 모델 경량화 및 실시간 데이터 파이프라인을 통해 산업 도메인의 병목을 해결합니다.</p>
@@ -35,7 +14,7 @@
   <!-- 🌐 Language Switching Buttons -->
   <p>
     <a href="./README.md">
-      <img src="https://img.shields.io/badge/Language-KO%20%7C%20%ED%95%9C%EA%B5%AD%EC%96%B4-D8B4FE?style=for-the-badge" alt="Korean"/>
+      <img src="https://img.shields.io/badge/Language-KO%20%7C%20%ED%95%9C%EA%B5%AD%EC%96%B4-C084FC?style=for-the-badge" alt="Korean"/>
     </a>
     <a href="./README_EN.md">
       <img src="https://img.shields.io/badge/Language-EN%20%7C%20English-707070?style=for-the-badge" alt="English"/>
