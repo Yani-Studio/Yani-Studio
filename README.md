@@ -2,7 +2,51 @@
   <img src="./banner.svg" alt="Yani-Studio Lab Dynamic Banner" width="100%" />
   
   <p align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=Orbitron&fontSize=23&duration=2500&pause=1000&color=C084FC&center=true&vCenter=true&width=600&height=50&lines=%22Pushing+the+Boundaries+of+Edge+AI%22;%22Manufacturing+Intelligence+%26+Optimization%22;%22Overcoming+Hardware+Limitations%22" alt="Typing SVG" />
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 220" width="100%" height="100%">
+  <defs>
+    <!-- 🎛️ 첨단 공정/웨이퍼 레이아웃 느낌의 테크니컬 격자 패턴 -->
+    <pattern id="cyber-grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M 40 0 L 0 0 0 40" fill="none" stroke="rgba(216, 180, 254, 0.05)" stroke-width="1"/>
+      <circle cx="40" cy="0" r="1.5" fill="rgba(192, 132, 252, 0.2)" />
+    </pattern>
+    <!-- 미래지향적 은은한 그라데이션 오버레이 -->
+    <linearGradient id="top-shadow" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#000000" stop-opacity="0.3" />
+      <stop offset="100%" stop-color="#000000" stop-opacity="0.0" />
+    </linearGradient>
+  </defs>
+
+  <!-- 🌌 배경 색상 루프 애니메이션 (첨단 보라색 톤이 끊임없이 계속 변화) -->
+  <rect width="100%" height="100%">
+    <animate attributeName="fill" 
+             values="#090214;#1a052e;#2d0054;#120224;#090214" 
+             dur="12s" repeatCount="indefinite" />
+  </rect>
+
+  <!-- 첨단 공정 격자 레이어 -->
+  <rect width="100%" height="100%" fill="url(#cyber-grid)" />
+  <rect width="100%" height="100%" fill="url(#top-shadow)" />
+
+  <!-- 🌊 실시간으로 교차하며 일렁이는 연보라 네온 파도 레이어 1 -->
+  <path d="M-200 130 C 200 70, 400 190, 800 120 C 1000 90, 1200 170, 1500 130 L 1500 220 L -200 220 Z" fill="rgba(192, 132, 252, 0.12)">
+    <animateTransform attributeName="transform" type="translate" from="0,0" to="-300,0" dur="12s" repeatCount="indefinite"/>
+  </path>
+
+  <!-- 🌊 실시간으로 교차하며 일렁이는 연보라 네온 파도 레이어 2 -->
+  <path d="M-100 150 C 300 100, 200 210, 600 140 C 900 80, 1000 190, 1400 150 L 1400 220 L -100 220 Z" fill="rgba(127, 90, 240, 0.18)">
+    <animateTransform attributeName="transform" type="translate" from="-300,0" to="0,0" dur="8s" repeatCount="indefinite"/>
+  </path>
+
+  <!-- 🤖 테크니컬 메인 타이틀 (미세한 네온 발광 효과 포함) -->
+  <text x="50%" y="45%" dominant-baseline="middle" text-anchor="middle" 
+        fill="#ffffff" font-family="'Orbitron', 'Segoe UI', -apple-system, sans-serif" font-weight="900" font-size="44" letter-spacing="4">
+    Yani-Studio Lab
+    <animate attributeName="opacity" values="0.85;1;0.85" dur="4s" repeatCount="indefinite"/>
+  </text>
+</svg>
+
+    <img width="300" height="55" alt="gemini-svg" src="https://github.com/user-attachments/assets/5ca715e2-80a0-4ecd-a547-6141337be466" />
+
   </p>
   
   <p>생산 현장의 제한된 하드웨어 리소스를 극복하고, 모델 경량화 및 실시간 데이터 파이프라인을 통해 산업 도메인의 병목을 해결합니다.</p>
