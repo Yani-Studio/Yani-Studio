@@ -5,14 +5,6 @@
   
   <br/>
 
-  <p>
-    <a href="./README.md">
-      <img src="https://img.shields.io/badge/Language-KO%20%7C%20%ED%95%9C%EA%B5%AD%EC%96%B4-3182F6?style=for-the-badge" alt="Korean"/>
-    </a>
-    <a href="./README_EN.md">
-      <img src="https://img.shields.io/badge/Language-EN%20%7C%20English-707070?style=for-the-badge" alt="English"/>
-    </a>
-  </p>
 </div>
 
 ---
