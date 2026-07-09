@@ -1,5 +1,47 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0f051d,4c1d95&text=Yani-Studio%20Lab&fontColor=ffffff&fontSize=44&height=220&animation=fade" width="100%" />
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 220" width="100%" style="background:#130624; border-radius:8px; display:block;">
+    <defs>
+      <linearGradient id="semi-gradient" x1="0%" y1="0%" x2="100%" y2="100%">
+        <stop offset="0%" stop-color="#1e0b36" />
+        <stop offset="50%" stop-color="#3b1566" />
+        <stop offset="100%" stop-color="#581c87" />
+      </linearGradient>
+      <pattern id="wafer-grid" width="30" height="30" patternUnits="userSpaceOnUse">
+        <path d="M 30 0 L 0 0 0 30" fill="none" stroke="rgba(216, 180, 254, 0.08)" stroke-width="0.8"/>
+      </pattern>
+    </defs>
+
+    <rect width="100%" height="100%" fill="url(#semi-gradient)" />
+    <rect width="100%" height="100%" fill="url(#wafer-grid)" />
+
+    <g stroke="#c084fc" stroke-width="1.2" opacity="0.35" fill="none">
+      <path d="M 0,50 L 160,50 L 210,100 L 420,100" />
+      <path d="M 1200,170 L 1040,170 L 990,120 L 780,120" />
+      <path d="M 250,220 L 330,140 L 520,140" />
+      <path d="M 950,0 L 870,80 L 680,80" />
+      <path d="M 120,190 L 220,190 L 250,160" />
+      <path d="M 1080,30 L 980,30 L 950,60" />
+    </g>
+    <g fill="#e9d5ff" opacity="0.6">
+      <circle cx="160" cy="50" r="3.5" />
+      <circle cx="210" cy="100" r="3.5" />
+      <circle cx="1040" cy="170" r="3.5" />
+      <circle cx="990" cy="120" r="3.5" />
+      <circle cx="330" cy="140" r="3.5" />
+      <circle cx="870" cy="80" r="3.5" />
+    </g>
+
+    <path d="M 25,45 L 25,25 L 45,25" fill="none" stroke="#c084fc" stroke-width="2" opacity="0.6" />
+    <path d="M 1175,45 L 1175,25 L 1155,25" fill="none" stroke="#c084fc" stroke-width="2" opacity="0.6" />
+    <path d="M 25,175 L 25,195 L 45,195" fill="none" stroke="#c084fc" stroke-width="2" opacity="0.6" />
+    <path d="M 1175,175 L 1175,195 L 1155,195" fill="none" stroke="#c084fc" stroke-width="2" opacity="0.6" />
+
+    <text x="50%" y="53%" dominant-baseline="middle" text-anchor="middle" 
+          fill="#ffffff" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-weight="900" font-size="44" letter-spacing="6"
+          style="text-shadow: 0 0 16px rgba(192, 132, 252, 0.85);">
+      Yani-Studio Lab
+    </text>
+  </svg>
   
   <p align="center">
     <img src="https://readme-typing-svg.demolab.com?font=Noto+Sans+KR&fontSize=22&duration=3000&pause=1000&color=C084FC&center=true&vCenter=true&width=650&height=50&lines=%EB%A8%B8%EC%8B%A0%EB%B9%84%EC%A0%84%20%26%20Edge%20AI;%EC%97%94%ED%84%B0%ED%94%84%EB%9D%BC%EC%9D%B4%EC%A6%88%20AI%20%26%20RAG%20(NL2SQL);%EC%8B%9C%EA%B3%84%EC%97%B4%20%EC%98%88%EC%B8%A1%20%26%20PHM%20(%EC%98%88%EC%A7%80%EB%B3%B4%EC%A0%84);%EC%82%B0%EC%97%85%20%EC%B5%9C%EC%A0%81%ED%99%94%20%26%20Operations%20Research" alt="Typing SVG" />
