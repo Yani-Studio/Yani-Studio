@@ -2,8 +2,6 @@
   <h1>🚀 Welcome to the Yani-Studio Lab!</h1>
   <p><b>"Pushing the Boundaries of Edge AI & Manufacturing Intelligence"</b></p>
   <p>생산 현장의 제한된 하드웨어 리소스를 극복하고, 모델 경량화 및 실시간 데이터 파이프라인을 통해 산업 도메인의 병목을 해결합니다.</p>
-  
-  <br/>
 
 </div>
 
