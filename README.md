@@ -1,8 +1,8 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=wave&color=gradient&customColorList=3C096C,5A189A,7B2CBF,9D4EDD,D800FF&height=180&section=header&text=Yani-Studio%20Lab&fontSize=50&fontColor=ffffff&fontAlignY=35" alt="Yani-Studio Lab Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=wave&color=gradient&customColorList=E6E6FA,D8B4FE,C084FC,BCA7FF,9E85FF&height=180&section=header&text=Yani-Studio%20Lab&fontSize=50&fontColor=ffffff&fontAlignY=35" alt="Yani-Studio Lab Banner" />
   
   <p align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=Orbitron&fontSize=23&duration=2500&pause=1000&color=D800FF&center=true&vCenter=true&width=600&height=50&lines=%22Pushing+the+Boundaries+of+Edge+AI%22;%22Manufacturing+Intelligence+%26+Optimization%22;%22Overcoming+Hardware+Limitations%22" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Orbitron&fontSize=23&duration=2500&pause=1000&color=C084FC&center=true&vCenter=true&width=600&height=50&lines=%22Pushing+the+Boundaries+of+Edge+AI%22;%22Manufacturing+Intelligence+%26+Optimization%22;%22Overcoming+Hardware+Limitations%22" alt="Typing SVG" />
   </p>
   
   <p>생산 현장의 제한된 하드웨어 리소스를 극복하고, 모델 경량화 및 실시간 데이터 파이프라인을 통해 산업 도메인의 병목을 해결합니다.</p>
@@ -11,7 +11,7 @@
 
   <p>
     <a href="./README.md">
-      <img src="https://img.shields.io/badge/Language-KO%20%7C%20%ED%95%9C%EA%B5%AD%EC%96%B4-D800FF?style=for-the-badge" alt="Korean"/>
+      <img src="https://img.shields.io/badge/Language-KO%20%7C%20%ED%95%9C%EA%B5%AD%EC%96%B4-C084FC?style=for-the-badge" alt="Korean"/>
     </a>
     <a href="./README_EN.md">
       <img src="https://img.shields.io/badge/Language-EN%20%7C%20English-707070?style=for-the-badge" alt="English"/>
