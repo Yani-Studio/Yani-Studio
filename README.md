@@ -56,15 +56,6 @@
 </details>
 
 <details>
-<summary><b>[SECS/GEM] 반도체 장비 결함 탐지 엣지 AI 아키텍처 구축</b> <code>Code</code></summary>
-<br>
-
-* **Core Approach:** 양자화로 인한 결함 미검출을 방지하고자 '무결점' 철학 하에 225만 개 조합을 탐색(Tera Search)하여 22개 이기종 모델 스태킹 앙상블 구축.
-* **Key Impact:** 데이터 누수 방지(Zero-Leakage) 전처리를 통해 93:7 극심한 불균형을 극복, 오탐을 단 4건으로 억제하며 벤치마크 환경 최고 수준인 **`F1-Score 0.5294 (SOTA)` 및 정밀도 `69.23%`** 달성.
-* **Artifacts:** 스태킹 모델 전체를 ONNX 표준 포맷으로 변환하고 다중 스레딩(Multi-threading)을 적용, 실시간 장비 제어 프로토콜(SECS/GEM) 연동에 특화된 초저지연 C++ 추론 파이프라인 배포.
-</details>
-
-<details>
 <summary><b>[캐글 1위] XAI 기반 적외선(IR) 태양광 모듈 초정밀 결함 탐지</b> <code>Competition</code></summary>
 <br>
 
@@ -133,6 +124,15 @@
 * **Core Approach:** 다중 운전 조건(6 Regimes) 하의 미검출 오진단 방지를 위해, CNN-BiLSTM-Attention 및 Dual Transformer Encoder를 결합하여 국소·전역 패턴을 동시 추출하는 PHM 파이프라인 구축.
 * **Key Impact:** 결함 조건별로 기하 평균(Geometric) 및 Soft-Min 앙상블을 교차 적용하고 정비 마진을 최적화 튜닝하여, 기존 베이스라인 모델 대비 **`FD004 패널티 점수 90.4% 감축`**.
 * **Artifacts:** Apple M5 하드웨어 최적화로 실시간 연산 속도를 확보하고, API를 통해 Voiceflow 지능형 에이전트 및 RAG 구조를 통합하여 실시간 현장 정비 모니터링 환경 완벽 구현.
+</details>
+
+<details>
+<summary><b>[SECS/GEM] 반도체 장비 결함 탐지 엣지 AI 아키텍처 구축</b> <code>Code</code></summary>
+<br>
+
+* **Core Approach:** 양자화로 인한 결함 미검출을 방지하고자 '무결점' 철학 하에 225만 개 조합을 탐색(Tera Search)하여 22개 이기종 모델 스태킹 앙상블 구축.
+* **Key Impact:** 데이터 누수 방지(Zero-Leakage) 전처리를 통해 93:7 극심한 불균형을 극복, 오탐을 단 4건으로 억제하며 벤치마크 환경 최고 수준인 **`F1-Score 0.5294 (SOTA)` 및 정밀도 `69.23%`** 달성.
+* **Artifacts:** 스태킹 모델 전체를 ONNX 표준 포맷으로 변환하고 다중 스레딩(Multi-threading)을 적용, 실시간 장비 제어 프로토콜(SECS/GEM) 연동에 특화된 초저지연 C++ 추론 파이프라인 배포.
 </details>
 
 <details>
