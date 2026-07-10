@@ -104,6 +104,14 @@
 * **Artifacts:** 교수진 및 실무진 심사에서 기술적 객관성과 안전망을 완벽히 검증받아 데이터 분석·활용 공모전 **전국 2등(최우수상) 수상** 및 사용자 친화적 웹 인터페이스 구현.
 </details>
 
+<details open>
+<summary><b>[Ongoing Research] 차세대 LLM 대화 실패 탐지 및 평가 벤치마크 구축</b> <code>Private Repo</code></summary>
+<br>
+
+* **Research Scope:** 대규모 언어 모델(LLM) 기반 생성형 대화 환경에서 발생하는 다양한 '실패(Failure)' 현상을 규명하고, 이를 다층적으로 탐지 및 평가하기 위한 과정 중심(Process-Oriented) 벤치마크 설계 연구.
+* **Status:** 논문 출판 및 지식재산권(IP) 보호를 위해 현재 연구 데이터와 핵심 코드는 **프라이빗(Private)** 레포지토리에서 엄격하게 보안 유지 중입니다. (학술지 게재 완료 후 제한적 오픈소스 전환 예정)
+</details>
+
 ---
 
 ### 📈 3. Time Series & Predictive Maintenance (PHM)
