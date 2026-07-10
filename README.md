@@ -108,7 +108,6 @@
 <summary><b>[연세대학교 협력 프로젝트 Ongoing Research] 차세대 LLM 대화 실패 탐지 및 평가 벤치마크 구축</b> <code>Private Repo</code></summary>
 <br>
 
-* **Research Scope:** 대규모 언어 모델(LLM) 기반 생성형 대화 환경에서 발생하는 다양한 '실패(Failure)' 현상을 규명하고, 이를 다층적으로 탐지 및 평가하기 위한 과정 중심(Process-Oriented) 벤치마크 설계 연구.
 * **Status:** 논문 출판 및 지식재산권(IP) 보호를 위해 현재 연구 데이터와 핵심 코드는 **프라이빗(Private)** 레포지토리에서 엄격하게 보안 유지 중입니다. (학술지 게재 완료 후 제한적 오픈소스 전환 예정)
 </details>
 
