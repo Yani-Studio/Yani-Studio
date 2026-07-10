@@ -183,7 +183,7 @@
 </details>
 
 <details>
-<summary><b>[Seoul Healthcare] 공공 헬스케어 선제적 모니터링 아키텍처</b> <code>Analysis</code></summary>
+<summary><b>[손목닥터 9988 사업 참여] 서울시 헬스케어 선제적 모니터링 아키텍처</b> <code>Analysis</code></summary>
 <br>
 
 * **Core Approach:** 45만 명의 데이터를 분석해 야간 과부하 심혈관 위험을 식별하고, Random Forest 예측 모델을 뼈대로 한 '개인 맞춤형 안전 통제' 초기 헬스케어 아키텍처 설계.
