@@ -18,18 +18,19 @@
 
 ---
 
-## 📊 Project & Research Overview
+## 📊 Verified Credentials & Core Achievements
 
-> 💡 **주요 연구 및 프로젝트 요약 장표** (기술 스택 및 핵심 성과 기반)
+> 💡 **주요 학술 성과, 수상 내역 및 대외 협력 프로젝트 요약**
 
-| Category | Research & Project | Key Stack | Metric / Impact |
+| 🏆 Credential | Research & Project | Domain | Key Metric / Impact |
 | :--- | :--- | :--- | :--- |
-| 👁️ **Vision & Edge** | 반도체 웨이퍼 결함 분류 초경량화 (SCRBLAA-Net) | PyTorch, t-SNE | `VRAM 3.2GB 절감` / **Accuracy 94.98%** (SCIE) |
-| 👁️ **Vision & Edge** | PCB 결함 분류 엔트로피 앙상블 아키텍처 | PyTorch, OpenCV | **Accuracy 99.80% (SOTA)** |
-| 👁️ **Vision & Edge** | SECS/GEM 반도체 장비 결함 탐지 엣지 추론 | C++, ONNX, Threading | `초저지연 엣지 파이프라인` / **F1 0.5294 (SOTA)** |
-| 🧠 **Enterprise AI** | 로컬 구동형 RAG-NL2SQL 보안 ERP 엔진 | Ollama, Local LLM | **Edge-case 방어율 100%** / `지연 1.65ms` |
-| 📈 **Time-Series** | Walmart 공급망 데이터 수요 예측 메타 앙상블 | Python, Pandas | Two-Stage Hurdle / **F1 0.67** |
-| 🎯 **Optimization** | 대규모 AGV 물류 라우팅 병목 최적화 | Google OR-Tools | `비용 지수 -324` / **이동 거리 35% 단축** |
+| 🎓 **SCIE 제1저자** | 반도체 웨이퍼 결함 분류 초경량화 AI (SCRBLAA-Net) | Vision & Edge | `VRAM 3.2GB 절감` / **Acc 94.98% 달성** |
+| 🥇 **캐글 1위 돌파** | XAI 기반 적외선(IR) 태양광 모듈 초정밀 결함 탐지 | Vision AI | 글로벌 앙상블 모델 최적화 / **Acc 96.2%** |
+| 🥈 **전국 2등 (최우수)** | 정부 공모전 환각 제어 식품 과학 RAG 챗봇 | Enterprise AI | 탐색 효율 `80% 향상` / **일치율 9배 상승** |
+| 🥇 **경희대 경진대회 1위** | 풍력 터빈 데이터 증강(GAN) 및 데이터 부패 규명 | Time-Series | 예측 오차 `59.2% 절감` / **연 6억 원 절감 입증** |
+| 🏛️ **서울시 사업 개발** | 서울시 헬스케어(손목닥터 9988) 선제적 모니터링 아키텍처 | Data Analysis | **`45만 명`** 데이터 분석 및 자동화 리포팅 기반 확립 |
+| 🤝 **산학 공동 연구** | 연세대학교 협력 LLM 대화 실패 탐지 벤치마크 구축 | LLM & RAG | 차세대 LLM 성능 평가 지표 및 프레임워크 설계 |
+| 🚀 **글로벌 SOTA** | 엔트로피 기반 앙상블 파이프라인 활용 PCB 결함 분류 | Vision AI | 글로벌 벤치마크 기준 세계 1위 성능 **`Acc 99.80%`** |
 
 ---
 
