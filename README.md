@@ -104,7 +104,7 @@
 * **Artifacts:** 교수진 및 실무진 심사에서 기술적 객관성과 안전망을 완벽히 검증받아 데이터 분석·활용 공모전 **전국 2등(최우수상) 수상** 및 사용자 친화적 웹 인터페이스 구현.
 </details>
 
-<details open>
+<details>
 <summary><b>[Ongoing Research] 차세대 LLM 대화 실패 탐지 및 평가 벤치마크 구축</b> <code>Private Repo</code></summary>
 <br>
 
