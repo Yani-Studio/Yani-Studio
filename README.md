@@ -5,7 +5,7 @@
     <img src="https://readme-typing-svg.demolab.com?font=Noto+Sans+KR&fontSize=22&duration=3000&pause=1000&color=C084FC&center=true&vCenter=true&width=650&height=50&lines=%EB%A8%B8%EC%8B%A0%EB%B9%84%EC%A0%84%20%26%20Edge%20AI;%EC%97%94%ED%84%B0%ED%94%84%EB%9D%BC%EC%9D%B4%EC%A6%88%20AI%20%26%20RAG%20(NL2SQL);%EC%8B%9C%EA%B3%84%EC%97%B4%20%EC%98%88%EC%B8%A1%20%26%20PHM%20(%EC%98%88%EC%A7%80%EB%B3%B4%EC%A0%84);%EC%82%B0%EC%97%85%20%EC%B5%9C%EC%A0%81%ED%99%94%20%26%20Operations%20Research" alt="Typing SVG" />
   </p>
   
-  <p><b>생산 현장의 제한된 하드웨어 리소스를 극복하고, 모델 경량화 및 실시간 데이터 파이프라인을 통해 산업 도메인의 병목을 해결로 자동 효율화 시스템로 기여합니다.</b></p>
+  <p><b>생산 현장의 리소스 한계를 극복하고, 모델 경량화 및 실시간 데이터 파이프라인으로 산업 도메인의 병목을 해결로 자동 효율화 시스템로 기여합니다.</b></p>
 </div>
 
 ---
