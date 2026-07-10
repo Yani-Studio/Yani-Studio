@@ -37,6 +37,7 @@
 ---
 
 ## 🚀 Core Research & Projects
+> 💡 **Tip:** 각 프로젝트의 제목을 클릭하시면 상세한 핵심 성과와 적용 기술을 확인하실 수 있습니다.
 
 ### 👁️ 1. Vision AI & Edge Deployment
 
