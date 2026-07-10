@@ -96,7 +96,7 @@
 </details>
 
 <details>
-<summary><b>[전국 공모전 2등] 환각 제어(Hallucination-Free) 식품 과학 RAG 챗봇</b> <code>Demo</code></summary>
+<summary><b>[정부 데이터 공모전 전국 2등] 환각 제어(Hallucination-Free) 식품 과학 RAG 챗봇</b> <code>Demo</code></summary>
 <br>
 
 * **Core Approach:** AI가 허위 정보를 진실처럼 생성하는 환각 현상을 원천 차단하기 위해, 문서 데이터를 문장 단위로 연결하고 검색 증강(RAG) 기술을 결합한 하이브리드 교차 검증 파이프라인 구축.
@@ -105,7 +105,7 @@
 </details>
 
 <details>
-<summary><b>[연세대학교 협력 프로젝트] 차세대 LLM 대화 실패 탐지 및 평가 벤치마크 구축</b> <code>Private Repo</code></summary>
+<summary><b>[연세대 협력 프로젝트] 차세대 LLM 대화 실패 탐지 및 평가 벤치마크 구축</b> <code>Private Repo</code></summary>
 <br>
 
 * **Status:** 논문 출판 및 지식재산권(IP) 보호를 위해 현재 연구 데이터와 핵심 코드는 **프라이빗(Private)** 레포지토리에서 엄격하게 보안 유지 중입니다. (학술지 게재 완료 후 제한적 오픈소스 전환 예정)
@@ -152,7 +152,7 @@
 </details>
 
 <details>
-<summary><b>[NREL] 풍력 터빈 시계열 데이터 증강 및 데이터 부패 규명</b> <code>1st Place</code></summary>
+<summary><b>[경희대 경진대회 1위] 풍력 터빈 시계열 데이터 증강 및 데이터 부패 규명</b> <code>1st Place</code></summary>
 <br>
 
 * **Core Approach:** 설비 예방 정비 고장 데이터 부족 한계를 극복하기 위해, NREL 풍력 터빈 진동 데이터에 GAN 기반 데이터 증강 기법을 도입하여 최적 시계열 예측 아키텍처 모델링.
