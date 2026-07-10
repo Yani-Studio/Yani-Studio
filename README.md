@@ -5,7 +5,10 @@
     <img src="https://readme-typing-svg.demolab.com?font=Noto+Sans+KR&fontSize=22&duration=3000&pause=1000&color=C084FC&center=true&vCenter=true&width=650&height=50&lines=%EB%A8%B8%EC%8B%A0%EB%B9%84%EC%A0%84%20%26%20Edge%20AI;%EC%97%94%ED%84%B0%ED%94%84%EB%9D%BC%EC%9D%B4%EC%A6%88%20AI%20%26%20RAG%20(NL2SQL);%EC%8B%9C%EA%B3%84%EC%97%B4%20%EC%98%88%EC%B8%A1%20%26%20PHM%20(%EC%98%88%EC%A7%80%EB%B3%B4%EC%A0%84);%EC%82%B0%EC%97%85%20%EC%B5%9C%EC%A0%81%ED%99%94%20%26%20Operations%20Research" alt="Typing SVG" />
   </p>
   
-  <p align="center"><b><span style="color: #C084FC;">비전, 시계열 및 언어 모델 기반 전산 시스템으로 실시간 데이터 파이프라인을 구축하여 산업 도메인의 병목을 자동 효율화 시스템 구축으로 기여합니다.</span></b></p>
+  <p align="center">
+    <img src="https://readme-typing-svg.demolab.com?font=Noto+Sans+KR&weight=700&fontSize=15&duration=99999&pause=99999&color=C084FC&center=true&vCenter=true&width=800&height=30&lines=%EB%B9%84%EC%A0%84%2C+%EC%8B%9C%EA%B3%84%EC%97%B4+%EB%B0%8F+%EC%96%B8%EC%96%B4+%EB%AA%A8%EB%8D%B8+%EA%B8%B0%EB%B0%98+%EC%A0%84%EC%82%B0+%EC%8B%9C%EC%8A%A4%ED%85%9C%EC%9C%BC%EB%A1%9C+%EC%8B%A4%EC%8B%9C%EA%B0%84+%EB%8D%B0%EC%9D%B4%ED%84%B0+%ED%8C%8C%EC%9D%B4%ED%94%84%EB%9D%BC%EC%9D%B8%EC%9D%84+%EA%B5%AC%EC%B6%95%ED%95%98%EC%97%AC" alt="intro_line_1" /><br>
+    <img src="https://readme-typing-svg.demolab.com?font=Noto+Sans+KR&weight=700&fontSize=15&duration=99999&pause=99999&color=C084FC&center=true&vCenter=true&width=800&height=30&lines=%EC%82%B0%EC%97%85+%EB%8F%84%EB%A9%94%EC%9D%B8%EC%9D%98+%EB%B3%91%EB%AA%A9%EC%9D%84+%EC%9E%90%EB%8F%99+%ED%9A%A8%EC%9C%A8%ED%99%94+%EC%8B%9C%EC%8A%A4%ED%85%9C+%EA%B5%AC%EC%B6%95%EC%9C%BC%EB%A1%9C+%EA%B8%B0%EC%97%AC%ED%95%A9%EB%8B%88%EB%8B%A4." alt="intro_line_2" />
+  </p>
 </div>
 
 ---
