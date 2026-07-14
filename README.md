@@ -24,7 +24,7 @@
 
 > 💡 **주요 학술 성과, 수상 내역 및 대외 협력 프로젝트 요약**
 
-| 🏆 Credential | Research & Project | Domain | Key Metric / Impact |
+| Credential | Research & Project | Domain | Key Metric / Impact |
 | :--- | :--- | :--- | :--- |
 |  **SCIE 1저자** | 반도체 웨이퍼 결함 분류 초경량화 AI (SCRBLAA-Net) | Vision & Edge | `VRAM 3.2GB 절감` / **Acc 94.98% 달성** |
 |  **캐글 1위 돌파** | XAI 기반 적외선(IR) 태양광 모듈 초정밀 결함 탐지 | Vision AI | 글로벌 앙상블 모델 최적화 / **Acc 96.2%** |
