@@ -91,6 +91,15 @@
 ### 🧠 2. Enterprise AI & Large Language Models
 
 <details>
+<summary><b>[엔터프라이즈 RAG] ISO 9001 챗봇 및 로컬 LLM 5종 성능 벤치마크</b> <code>Architecture</code> <code>Benchmark</code></summary>
+<br>
+
+* **Core Approach:** 하드웨어 리소스 최적화를 위해 DGX Spark 서버(128GB VRAM)와 로컬 프론트엔드를 철저히 분리한 분산 아키텍처를 구축하고, 엣지 케이스와 환각 유도를 포함한 100-Question 건틀릿 데이터셋으로 LLM 평가 파이프라인 설계.
+* **Key Impact:** 5개 로컬 LLM의 RAG Score 및 추론 속도를 정밀 비교하여 DeepSeek v4(99.9점, 10.9초)를 최종 낙점하고, `Temperature` 및 `Rep.Penalty` 극한 튜닝으로 **`할루시네이션 에러 0건(100% Pass Rate)`**의 엔터프라이즈급 프로덕션 안정성 확보.
+* **Artifacts:** 벤치마크 평가, 추론 속도 트레이드오프, 환각 억제 과정을 세밀하게 분석한 고화질 전문 차트 시각화 및 Streamlit UI 챗봇 데모를 포함하여 글로벌 톱티어 수준의 영문 깃허브 오픈소스로 퍼블리싱.
+</details>
+
+<details>
 <summary><b>[100% 온프레미스] 차세대 RAG-NL2SQL 보안형 ERP 엔진</b> <code>Architecture</code></summary>
 <br>
 
