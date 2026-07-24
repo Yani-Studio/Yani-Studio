@@ -29,7 +29,7 @@
 |  **SCIE 1저자** | 반도체 웨이퍼 결함 분류 초경량화 AI (SCRBLAA-Net) | Vision & Edge | `VRAM 3.2GB 절감` / **Acc 94.98% 달성** |
 |  **캐글 1위** | XAI 기반 적외선(IR) 태양광 모듈 초정밀 결함 탐지 성능 돌파| Vision AI | 글로벌 앙상블 모델 최적화 / **Acc 96.2%** |
 |  **전국 2등** | 정부 공모전 환각 제어 식품 과학 RAG 챗봇 | Enterprise AI | 탐색 효율 `80% 향상` / **일치율 9배 상승** |
-|  **경희대 1위** | 풍력 터빈 데이터 증강(GAN) 및 데이터 부패 규명 | Time-Series | 예측 오차 `59.2% 절감` / **연 6억 원 절감 입증**
+|  **경희대 1위** | 풍력 터빈 데이터 증강(GAN) 및 데이터 부패 규명 | Time-Series | 예측 오차 `59.2% 절감` / **연 6억 원 절감 입증** |
 |  **서울시 사업** | 서울시 헬스케어(손목닥터 9988) 선제적 모니터링 아키텍처 | Data Analysis | **`45만 명`** 데이터 분석 및 자동화 리포팅 기반 확립 |
 |  **산학 연구** | 연세대학교 협력 LLM 대화 실패 탐지 벤치마크 구축 | LLM & RAG | 차세대 LLM 성능 평가 지표 및 프레임워크 설계 |
 |  **글로벌 성능** | 엔트로피 기반 앙상블 파이프라인 활용 PCB 결함 분류 | Vision AI | 글로벌 벤치마크 기준 세계 1위 성능 **`Acc 99.80%`** |
@@ -126,6 +126,8 @@
 
 <details>
 <summary><b>[IBM × SAP] 온프레미스 P2P 프로세스 마이닝 & 처방형 AI 챗봇 (FastAPI · Local LLM)</b> <code>Architecture</code> <code>Benchmark</code></summary>
+<br>
+
 * **Core Approach:** 239,620건의 SAP ERP 로그 기반 DFG 병목 탐지, 15종 ML 스태킹 모델 및 DGX Spark 로컬 LLM(`qwen3.6:35b`) 연동 3대 처방 AI 모듈 구축.
 * **Key Impact:** 지연 예측 **`F1 0.8802 (Acc 92.53%)`** 및 로컬 LLM **`74.50 TPS`** 달성. What-If 시뮬레이션 기반 **`지연 리스크 67.58%p 감축`** 및 **`SOP 감사 리콜률 98.27%`** 확보.
 * **Artifacts:** ERD 데이터 실시간 참조 인용(Active Highlighting) 및 깜빡임 방지 제어 로직이 적용된 Streamlit 3패널 대시보드 구축 및 전체 파이프라인 오픈소스 배포.
