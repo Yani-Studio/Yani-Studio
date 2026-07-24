@@ -128,8 +128,8 @@
 <summary><b>[IBM × SAP] 온프레미스 P2P 프로세스 마이닝 & 처방형 AI 챗봇 (FastAPI · Local LLM)</b> <code>Architecture</code> <code>Benchmark</code></summary>
 <br>
 * **Core Approach:** SAP ERP 5개 테이블(`EBAN`, `EKKO/EKPO`, `MKPF/MSEG`, `RBKP/RSEG`, `BSAK`)의 239,620건 이벤트 로그를 분석해 DFG 공정 병목을 탐지하고, Meta_LightGBM 15종 스태킹 모델과 DGX Spark 로컬 LLM(Ollama `qwen3.6:35b`) 기반 3대 처방 AI 모듈(XAI, What-If 시뮬레이터, SOP 감사)을 연동한 엔드투엔드 에이전트 구축.
-* **Key Impact:** 15개 ML 앙상블로 지연 예측 **`F1-Score 0.8802` / `Accuracy 92.53%`** 및 로컬 LLM **`74.50 TPS`** 초고속 추론 달성. What-If 카운터팩추얼 시뮬레이션을 통해 **`지연 리스크 67.58%p 감축(84.2% ➔ 16.62%)`** 및 SOP 규정 위반 **`감사 적발 리콜률 98.27%`** 확보.
-* **Artifacts:** LLM 응답 시 원천 ERD 데이터 참조 실시간 인용(Active Reference Highlighting) 및 영-한 번역 깜빡임(Flickering) 방지 제어 로직이 적용된 Streamlit 3패널 인터랙티브 UI를 개발하고, 5대 로컬 LLM 300회 쿼리 벤치마크 결과와 파이프라인 전체를 오픈소스로 공개.
+* **Key Impact:** 15개 ML 앙상블로 지연 예측 **`F1-Score 0.8802`** 및 **`Accuracy 92.53%`** 확보, 로컬 LLM **`74.50 TPS`** 초고속 추론 달성. What-If 카운터팩추얼 시뮬레이션을 통해 **`지연 리스크 67.58%p 감축(84.2% ➔ 16.62%)`** 및 SOP 규정 위반 **`감사 적발 리콜률 98.27%`** 달성.
+* **Artifacts:** LLM 응답 시 원천 ERD 데이터 참조 실시간 인용(Active Reference Highlighting) 및 영-한 번역 깜빡임(Flickering) 방지 제어 로직이 적용된 Streamlit 3패널 인터랙티브 UI를 개발하고, 5대 로컬 LLM 300회 쿼리 벤치마크 결과와 파이프라인 전체를 오픈소스 배포.
 </details>
 
 ---
