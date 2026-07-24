@@ -126,10 +126,9 @@
 
 <details>
 <summary><b>[IBM × SAP] 온프레미스 P2P 프로세스 마이닝 & 처방형 AI 챗봇 (FastAPI · Local LLM)</b> <code>Architecture</code> <code>Benchmark</code></summary>
-<br>
-* **Core Approach:** 239,620건의 SAP ERP 로그 기반 DFG 병목 탐지, 15종 ML 스태킹 모델 및 DGX Spark 로컬 LLM(`qwen3.6:35b`) 연동 3대 처방 AI 모듈(XAI·시뮬레이터·감사) 구축.
+* **Core Approach:** 239,620건의 SAP ERP 로그 기반 DFG 병목 탐지, 15종 ML 스태킹 모델 및 DGX Spark 로컬 LLM(`qwen3.6:35b`) 연동 3대 처방 AI 모듈 구축.
 * **Key Impact:** 지연 예측 **`F1 0.8802 (Acc 92.53%)`** 및 로컬 LLM **`74.50 TPS`** 달성. What-If 시뮬레이션 기반 **`지연 리스크 67.58%p 감축`** 및 **`SOP 감사 리콜률 98.27%`** 확보.
-* **Artifacts:** ERD 데이터 실시간 참조 인용(Active Highlighting) 및 깜빡임 방지 제어 로직이 적용된 Streamlit 3패널 대시보드 구축 및 깃허브 전체 파이프라인 오픈소스 배포.
+* **Artifacts:** ERD 데이터 실시간 참조 인용(Active Highlighting) 및 깜빡임 방지 제어 로직이 적용된 Streamlit 3패널 대시보드 구축 및 전체 파이프라인 오픈소스 배포.
 </details>
 
 ---
