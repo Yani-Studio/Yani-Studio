@@ -6,7 +6,7 @@
   </p>
   
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Noto+Sans+KR&weight=700&fontSize=16&duration=1&repeat=false&color=C084FC&center=true&vCenter=true&width=1000&height=30&lines=%EC%8B%A4%EC%8B%9C%EA%B0%84+%EB%8D%B0%EC%9D%B4%ED%84%B0+%ED%8C%8C%EC%9D%B4%ED%94%84%EB%9D%BC%EC%9D%B8%EC%9D%84+%EA%B5%AC%EC%B6%95%ED%95%98%EC%97%AC+%EC%82%B0%EC%97%85+%EB%8F%84%EB%A9%94%EC%9D%B8%EC%9D%98+%EB%B3%91%EB%AA%A9%EC%9D%84+%EC%9E%90%EB%8F%99+%ED%9A%A8%EC%9C%A8%ED%99%94+%EC%8B%9C%EC%8A%A4%ED%85%9C+%EA%B5%AC%EC%B6%95%EC%9C%BC%EB%A1%9C+%EA%B8%B0%EC%97%AC%ED%95%A9%EB%8B%88%EB%8B%A4." alt="Description Text" />
+  <img src="https://readme-typing-svg.demolab.com?font=Noto+Sans+KR&weight=700&fontSize=16&duration=1&repeat=false&color=C084FC&center=true&vCenter=true&width=1000&height=30&lines=%EC%8B%A4%EC%8B%9C%EA%B0%84+%EB%8D%B0%EC%9D%B4%ED%84%B0+%ED%8C%8C%EC%9D%B4%ED%94%84%EB%9D%9C%EC%9D%B8%EC%9D%84+%EA%B5%AC%EC%B6%95%ED%95%98%EC%97%AC+%EC%82%B0%EC%97%85+%EB%8F%84%EB%A9%94%EC%9D%B8%EC%9D%98+%EB%B3%91%EB%AA%A9%EC%9D%84+%EC%9E%90%EB%8F%99+%ED%9A%A8%EC%9C%A8%ED%99%94+%EC%8B%9C%EC%8A%A4%ED%85%9C+%EA%B5%AC%EC%B6%95%EC%9C%BC%EB%A1%9C+%EA%B8%B8%EC%96%B4%ED%95%A9%EB%8B%88%EB%8B%A4." alt="Description Text" />
 </p>
 </div>
 
@@ -26,13 +26,14 @@
 
 | Credential | Research & Project | Domain | Key Metric / Impact |
 | :--- | :--- | :--- | :--- |
-|  **SCIE 1저자** | 반도체 웨이퍼 결함 분류 초경량화 AI (SCRBLAA-Net) | Vision & Edge | `VRAM 3.2GB 절감` / **Acc 94.98% 달성** |
-|  **캐글 1위** | XAI 기반 적외선(IR) 태양광 모듈 초정밀 결함 탐지 성능 돌파| Vision AI | 글로벌 앙상블 모델 최적화 / **Acc 96.2%** |
-|  **전국 2등** | 정부 공모전 환각 제어 식품 과학 RAG 챗봇 | Enterprise AI | 탐색 효율 `80% 향상` / **일치율 9배 상승** |
-|  **경희대 1위** | 풍력 터빈 데이터 증강(GAN) 및 데이터 부패 규명 | Time-Series | 예측 오차 `59.2% 절감` / **연 6억 원 절감 입증** |
-|  **서울시 사업** | 서울시 헬스케어(손목닥터 9988) 선제적 모니터링 아키텍처 | Data Analysis | **`45만 명`** 데이터 분석 및 자동화 리포팅 기반 확립 |
-|  **산학 연구** | 연세대학교 협력 LLM 대화 실패 탐지 벤치마크 구축 | LLM & RAG | 차세대 LLM 성능 평가 지표 및 프레임워크 설계 |
-|  **글로벌 성능** | 엔트로피 기반 앙상블 파이프라인 활용 PCB 결함 분류 | Vision AI | 글로벌 벤치마크 기준 세계 1위 성능 **`Acc 99.80%`** |
+| **SCIE 1저자** | 반도체 웨이퍼 결함 분류 초경량화 AI (SCRBLAA-Net) | Vision & Edge | `VRAM 3.2GB 절감` / **Acc 94.98% 달성** |
+| **캐글 1위** | XAI 기반 적외선(IR) 태양광 모듈 초정밀 결함 탐지 성능 돌파 | Vision AI | 글로벌 앙상블 모델 최적화 / **Acc 96.2%** |
+| **전국 2등** | 정부 공모전 환각 제어 식품 과학 RAG 챗봇 | Enterprise AI | 탐색 효율 `80% 향상` / **일치율 9배 상승** |
+| **경희대 1위** | 풍력 터빈 데이터 증강(GAN) 및 데이터 부패 규명 | Time-Series | 예측 오차 `59.2% 절감` / **연 6억 원 절감 입증** |
+| **벤츠 MES** | 디지털 트윈(GA) & 6-Sigma 기반 MES AI 공정 최적화[cite: 1] | Industrial & MES[cite: 1] | `검수 시간 55.6% 단축` / **연 216억 원 절감**[cite: 1] |
+| **서울시 사업** | 서울시 헬스케어(손목닥터 9988) 선제적 모니터링 아키텍처 | Data Analysis | **`45만 명`** 데이터 분석 및 자동화 리포팅 기반 확립 |
+| **산학 연구** | 연세대학교 협력 LLM 대화 실패 탐지 벤치마크 구축 | LLM & RAG | 차세대 LLM 성능 평가 지표 및 프레임워크 설계 |
+| **글로벌 성능** | 엔트로피 기반 앙상블 파이프라인 활용 PCB 결함 분류 | Vision AI | 글로벌 벤치마크 기준 세계 1위 성능 **`Acc 99.80%`** |
 
 ---
 
@@ -185,6 +186,15 @@
 ---
 
 ### 🎯 4. Operations Research & Industrial Optimization
+
+<details>
+<summary><b>[Mercedes-Benz MES] 디지털 트윈(GA) 및 6-Sigma 기반 AI 공정 최적화 엔진</b> <code>Architecture</code> <code>Engine</code></summary>
+<br>
+
+* **Core Approach:** Remote DGX Spark GPU 클러스터 기반 6,530만 개(Golden Point: 4,254만) 유전 알고리즘(GA) 탐색 엔진과 10개 모델 멀티스테이지 슈퍼 스태킹 앙상블(XGBoost, LightGBM, CatBoost, SVR 등)을 구축하고[cite: 1], gRPC/WebSockets 기반 양방향 실시간 제어 파이프라인 설계[cite: 1].
+* **Key Impact:** 공정 검수 시간을 **`100.67초 → 44.72초(-55.6%)`**로 단축하고[cite: 1] $C_{pk}$를 **`0.85 → 1.67(6-Sigma 레벨)`**로 향상시켜[cite: 1], 연간 **`216억 원`**의 경제적 가치(Executive ROI **`1,480%`**) 및 탄소 배출 **`39.9톤 절감`** 입증[cite: 1].
+* **Artifacts:** Apple MacBook Pro와 Remote DGX Spark 간 실시간 6-Sigma SPC 모니터링 및 인터랙티브 GA 파라미터 튜닝이 가능한 Streamlit 대시보드와 Flask 웹 콘솔을 구축하여 오픈소스 배포[cite: 1].
+</details>
 
 <details>
 <summary><b>[Google OR-Tools] 대규모 AGV 물류 라우팅 병목 최적화</b> <code>Engine</code></summary>
