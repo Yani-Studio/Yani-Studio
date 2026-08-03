@@ -6,7 +6,7 @@
   </p>
   
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Noto+Sans+KR&weight=700&fontSize=16&duration=1&repeat=false&color=C084FC&center=true&vCenter=true&width=1000&height=30&lines=%EC%8B%A4%EC%8B%9C%EA%B0%84+%EB%8D%B0%EC%9D%B4%ED%84%B0+%ED%8C%8C%EC%9D%B4%ED%94%84%EB%9D%9C%EC%9D%B8%EC%9D%84+%EA%B5%AC%EC%B6%95%ED%95%98%EC%97%AC+%EC%82%B0%EC%97%85+%EB%8F%84%EB%A9%94%EC%9D%B8%EC%9D%98+%EB%B3%91%EB%AA%A9%EC%9D%84+%EC%9E%90%EB%8F%99+%ED%9A%A8%EC%9C%A8%ED%99%94+%EC%8B%9C%EC%8A%A4%ED%85%9C+%EA%B5%AC%EC%B6%95%EC%9C%BC%EB%A1%9C+%EA%B8%B8%EC%96%B4%ED%95%A9%EB%8B%88%EB%8B%A4." alt="Description Text" />
+  <img src="https://readme-typing-svg.demolab.com?font=Noto+Sans+KR&weight=700&fontSize=16&duration=1&repeat=false&color=C084FC&center=true&vCenter=true&width=1000&height=30&lines=%EC%8B%A4%EC%8B%9C%EA%B0%84+%EB%8D%B0%EC%9D%B4%ED%84%B0+%ED%8C%8C%EC%9D%B4%ED%94%84%EB%9D%9C%EC%9D%B8%EC%9D%84+%EA%B5%AC%EC%B6%95%ED%95%98%EC%97%AC+%EC%82%B0%EC%97%85+%EB%8F%84%EB%A9%94%EC%9D%B8%EC%9D%98+%EB%B3%91%EB%AA%A9%EC%9D%84+%EC%9E%90%EB%8F%99+%ED%9A%A8%EC%9C%A8%ED%99%94+%EC%8B%9C%EC%8A%A4%ED%85%9C+%EA%B5%AC%EC%B6%95%EC%9C%BC%EB%A1%9C+%EA%B8%B0%EC%97%A1%ED%95%88%EB%8B%88%EB%8B%A4." alt="Description Text" />
 </p>
 </div>
 
@@ -28,9 +28,9 @@
 | :--- | :--- | :--- | :--- |
 | **SCIE 1저자** | 반도체 웨이퍼 결함 분류 초경량화 AI (SCRBLAA-Net) | Vision & Edge | `VRAM 3.2GB 절감` / **Acc 94.98% 달성** |
 | **캐글 1위** | XAI 기반 적외선(IR) 태양광 모듈 초정밀 결함 탐지 성능 돌파 | Vision AI | 글로벌 앙상블 모델 최적화 / **Acc 96.2%** |
+| **벤츠 MES** | 디지털 트윈(GA) & 6-Sigma 기반 MES AI 공정 최적화[cite: 1] | Industrial & MES[cite: 1] | `검수 시간 55.6% 단축` / **연 216억 원 절감**[cite: 1] |
 | **전국 2등** | 정부 공모전 환각 제어 식품 과학 RAG 챗봇 | Enterprise AI | 탐색 효율 `80% 향상` / **일치율 9배 상승** |
 | **경희대 1위** | 풍력 터빈 데이터 증강(GAN) 및 데이터 부패 규명 | Time-Series | 예측 오차 `59.2% 절감` / **연 6억 원 절감 입증** |
-| **캐글 1위** | 디지털 트윈(GA) & 6-Sigma 기반 MES AI 공정 최적화[cite: 1] | Industrial & MES[cite: 1] | `검수 시간 55.6% 단축` / **연 216억 원 절감**[cite: 1] |
 | **서울시 사업** | 서울시 헬스케어(손목닥터 9988) 선제적 모니터링 아키텍처 | Data Analysis | **`45만 명`** 데이터 분석 및 자동화 리포팅 기반 확립 |
 | **산학 연구** | 연세대학교 협력 LLM 대화 실패 탐지 벤치마크 구축 | LLM & RAG | 차세대 LLM 성능 평가 지표 및 프레임워크 설계 |
 | **글로벌 성능** | 엔트로피 기반 앙상블 파이프라인 활용 PCB 결함 분류 | Vision AI | 글로벌 벤치마크 기준 세계 1위 성능 **`Acc 99.80%`** |
@@ -52,21 +52,21 @@
 </details>
 
 <details>
-<summary><b>[전세계 1등 성능] 엔트로피 기반 앙상블 AI 활용 PCB 결함 분류</b> <code>Code</code></summary>
-<br>
-
-* **Core Approach:** 50개 이상의 CNN 아키텍처 대상 대규모 절제 연구(Ablation Study)를 거쳐, 모델 예측 불확실성을 배제하는 '엔트로피 기반 앙상블(ResNet50+MobileNet)' 파이프라인 단독 개발.
-* **Key Impact:** 3단계 전이 학습 및 명시적 메모리 최적화(Apple M5)를 통해 글로벌 벤치마크 기준 **결함 분류 정확도 `99.80% (SOTA)`**라는 전 세계 1위 성능 달성.
-* **Artifacts:** 3차원 점 지도(3D t-SNE)를 활용해 복잡한 결함 클래스가 고차원 공간에서 명확히 분리됨을 증명하고, 기획부터 하드웨어 최적화까지 단독 연구 전 과정을 깃허브에 투명하게 오픈소스화.
-</details>
-
-<details>
 <summary><b>[캐글 1위] XAI 기반 적외선(IR) 태양광 모듈 초정밀 결함 탐지</b> <code>Competition</code></summary>
 <br>
 
 * **Core Approach:** 극심한 클래스 불균형 해결을 위해 텐서 복제 기반 전처리 및 3단계 동결 해제 학습을 적용하고, 23개 비전 모델과 30개 앙상블 조합을 완전 탐색하는 파이프라인 구축.
 * **Key Impact:** 상위 5개 모델 기하평균 및 임계값(0.54) 정밀 튜닝으로 **결함 분류 정확도 `96.2%`** 달성, 원작자 베이스라인 대비 **`4.15%p` 향상된 캐글 1위 성능** 기록.
 * **Artifacts:** XAI(Grad-CAM) 기법을 통합해 12종의 비정상 발열 패턴을 픽셀 단위로 국소화하여 양품 오분류 원천 차단을 증명하고, 전처리부터 검증까지 전 과정을 오픈소스로 투명하게 공개.
+</details>
+
+<details>
+<summary><b>[전세계 1등 성능] 엔트로피 기반 앙상블 AI 활용 PCB 결함 분류</b> <code>Code</code></summary>
+<br>
+
+* **Core Approach:** 50개 이상의 CNN 아키텍처 대상 대규모 절제 연구(Ablation Study)를 거쳐, 모델 예측 불확실성을 배제하는 '엔트로피 기반 앙상블(ResNet50+MobileNet)' 파이프라인 단독 개발.
+* **Key Impact:** 3단계 전이 학습 및 명시적 메모리 최적화(Apple M5)를 통해 글로벌 벤치마크 기준 **결함 분류 정확도 `99.80% (SOTA)`**라는 전 세계 1위 성능 달성.
+* **Artifacts:** 3차원 점 지도(3D t-SNE)를 활용해 복잡한 결함 클래스가 고차원 공간에서 명확히 분리됨을 증명하고, 기획부터 하드웨어 최적화까지 단독 연구 전 과정을 깃허브에 투명하게 오픈소스화.
 </details>
 
 <details>
@@ -90,24 +90,6 @@
 ---
 
 ### 🧠 2. Enterprise AI & Large Language Models
-
-<details>
-<summary><b>[엔터프라이즈 RAG] ISO 9001 챗봇 및 로컬 LLM 5종 성능 벤치마크</b> <code>Architecture</code> <code>Benchmark</code></summary>
-<br>
-
-* **Core Approach:** 하드웨어 리소스 최적화를 위해 DGX Spark 서버(128GB VRAM)와 로컬 프론트엔드를 철저히 분리한 분산 아키텍처를 구축하고, 엣지 케이스와 환각 유도를 포함한 100-Question 건틀릿 데이터셋으로 LLM 평가 파이프라인 설계.
-* **Key Impact:** 5개 로컬 LLM의 RAG Score 및 추론 속도를 정밀 비교하여 DeepSeek v4(99.9점, 10.9초)를 최종 낙점하고, `Temperature` 및 `Rep.Penalty` 극한 튜닝으로 **`할루시네이션 에러 0건(100% Pass Rate)`**의 엔터프라이즈급 프로덕션 안정성 확보.
-* **Artifacts:** 벤치마크 평가, 추론 속도 트레이드오프, 환각 억제 과정을 세밀하게 분석한 고화질 전문 차트 시각화 및 Streamlit UI 챗봇 데모를 포함하여 글로벌 톱티어 수준의 영문 깃허브 오픈소스로 퍼블리싱.
-</details>
-
-<details>
-<summary><b>[100% 온프레미스] 차세대 RAG-NL2SQL 보안형 ERP 엔진</b> <code>Architecture</code></summary>
-<br>
-
-* **Core Approach:** 민감한 기업 핵심 자산의 클라우드 유출 방지를 위해, 외부 서버 연결 없이 100% 로컬 네트워크에서 구동되는 Ollama 기반 RAG-NL2SQL 엔진 및 자가 수정(Reflexion) 루프 설계.
-* **Key Impact:** 노이즈 주입 엣지 케이스 파이프라인과 8시간의 자율 튜닝 프로세스 도입으로 극단적 환경에서 **`방어율 100%`**를 기록하고, Codestral 모델 기준 **`1.65ms 내 데이터 일치율 100%`** 달성.
-* **Artifacts:** 자연어만으로 3가지 모의 ERP 스키마(HR, 재무 등)를 제어할 수 있는 이중 언어(Bilingual) 지원 글래스모피즘 Streamlit UI를 구축하여 깃허브에 투명하게 오픈소스화.
-</details>
 
 <details>
 <summary><b>[정부 데이터 공모전 전국 2등] 환각 제어(Hallucination-Free) 식품 과학 RAG 챗봇</b> <code>Demo</code></summary>
@@ -134,17 +116,35 @@
 * **Artifacts:** ERD 데이터 실시간 참조 인용(Active Highlighting) 및 깜빡임 방지 제어 로직이 적용된 Streamlit 3패널 대시보드 구축 및 전체 파이프라인 오픈소스 배포.
 </details>
 
+<details>
+<summary><b>[엔터프라이즈 RAG] ISO 9001 챗봇 및 로컬 LLM 5종 성능 벤치마크</b> <code>Architecture</code> <code>Benchmark</code></summary>
+<br>
+
+* **Core Approach:** 하드웨어 리소스 최적화를 위해 DGX Spark 서버(128GB VRAM)와 로컬 프론트엔드를 철저히 분리한 분산 아키텍처를 구축하고, 엣지 케이스와 환각 유도를 포함한 100-Question 건틀릿 데이터셋으로 LLM 평가 파이프라인 설계.
+* **Key Impact:** 5개 로컬 LLM의 RAG Score 및 추론 속도를 정밀 비교하여 DeepSeek v4(99.9점, 10.9초)를 최종 낙점하고, `Temperature` 및 `Rep.Penalty` 극한 튜닝으로 **`할루시네이션 에러 0건(100% Pass Rate)`**의 엔터프라이즈급 프로덕션 안정성 확보.
+* **Artifacts:** 벤치마크 평가, 추론 속도 트레이드오프, 환각 억제 과정을 세밀하게 분석한 고화질 전문 차트 시각화 및 Streamlit UI 챗봇 데모를 포함하여 글로벌 톱티어 수준의 영문 깃허브 오픈소스로 퍼블리싱.
+</details>
+
+<details>
+<summary><b>[100% 온프레미스] 차세대 RAG-NL2SQL 보안형 ERP 엔진</b> <code>Architecture</code></summary>
+<br>
+
+* **Core Approach:** 민감한 기업 핵심 자산의 클라우드 유출 방지를 위해, 외부 서버 연결 없이 100% 로컬 네트워크에서 구동되는 Ollama 기반 RAG-NL2SQL 엔진 및 자가 수정(Reflexion) 루프 설계.
+* **Key Impact:** 노이즈 주입 엣지 케이스 파이프라인과 8시간의 자율 튜닝 프로세스 도입으로 극단적 환경에서 **`방어율 100%`**를 기록하고, Codestral 모델 기준 **`1.65ms 내 데이터 일치율 100%`** 달성.
+* **Artifacts:** 자연어만으로 3가지 모의 ERP 스키마(HR, 재무 등)를 제어할 수 있는 이중 언어(Bilingual) 지원 글래스모피즘 Streamlit UI를 구축하여 깃허브에 투명하게 오픈소스화.
+</details>
+
 ---
 
 ### 📈 3. Time Series & Predictive Maintenance (PHM)
 
 <details>
-<summary><b>[Walmart ERP] 4,700만 건 대규모 공급망 수요 예측 메타 앙상블</b> <code>Pipeline</code></summary>
+<summary><b>[경희대 경진대회 1위] 풍력 터빈 시계열 데이터 증강 및 데이터 부패 규명</b> <code>1st Place</code></summary>
 <br>
 
-* **Core Approach:** 전체 데이터의 80% 이상이 0인 영과잉(Zero-inflated) 특성을 극복하기 위해, 수요 발생 여부와 판매 수량을 완벽히 분리하는 투 스테이지 허들(Two-Stage Hurdle) 아키텍처 고안.
-* **Key Impact:** 53개 단일 모델 및 50개 앙상블 전수조사를 거쳐 머신러닝·딥러닝 하이브리드 메타 앙상블(Tweedie loss 결합)을 설계하고, 정밀도 하락 없이 최종 **`F1-Score 0.67`** 확보.
-* **Artifacts:** Zero-copy 메모리 최적화로 대용량 학습 과정의 OOM을 차단하여 소요 시간을 **`15분 이상 단축`**했으며, 압도적 성능을 입증하는 혼동 행렬 시각화 자료와 파이프라인 전체를 오픈소스 배포.
+* **Core Approach:** 설비 예방 정비 고장 데이터 부족 한계를 극복하기 위해, NREL 풍력 터빈 진동 데이터에 GAN 기반 데이터 증강 기법을 도입하여 최적 시계열 예측 아키텍처 모델링.
+* **Key Impact:** 데이터 증강 도입 시 예측 오차(MSE) **`59.2% 절감`** 및 연간 6억 원 이상 유지보수 예산 절감 가치를 정량적으로 입증하여 **경희대 설계 경진대회 1위** 달성.
+* **Artifacts:** 대회 이후 독자 정량 분석을 통해 화려한 오차 감소가 실은 원본 상관구조를 79.7배 왜곡하는 '숨겨진 데이터 부패' 현상이었음을 역추적하여 데이터 품질 검증 방법론을 깃허브에 공유.
 </details>
 
 <details>
@@ -166,21 +166,21 @@
 </details>
 
 <details>
+<summary><b>[Walmart ERP] 4,700만 건 대규모 공급망 수요 예측 메타 앙상블</b> <code>Pipeline</code></summary>
+<br>
+
+* **Core Approach:** 전체 데이터의 80% 이상이 0인 영과잉(Zero-inflated) 특성을 극복하기 위해, 수요 발생 여부와 판매 수량을 완벽히 분리하는 투 스테이지 허들(Two-Stage Hurdle) 아키텍처 고안.
+* **Key Impact:** 53개 단일 모델 및 50개 앙상블 전수조사를 거쳐 머신러닝·딥러닝 하이브리드 메타 앙상블(Tweedie loss 결합)을 설계하고, 정밀도 하락 없이 최종 **`F1-Score 0.67`** 확보.
+* **Artifacts:** Zero-copy 메모리 최적화로 대용량 학습 과정의 OOM을 차단하여 소요 시간을 **`15분 이상 단축`**했으며, 압도적 성능을 입증하는 혼동 행렬 시각화 자료와 파이프라인 전체를 오픈소스 배포.
+</details>
+
+<details>
 <summary><b>[BPIC 2012] 금융 워크플로우 사전 병목 예측 스태킹 앙상블</b> <code>Code</code></summary>
 <br>
 
 * **Core Approach:** 사후 분석에 머물던 프로세스 마이닝의 한계를 극복하기 위해, LSTM 임베딩 벡터와 도메인 통계 피처를 결합하여 워크플로우 중간에 병목을 사전 경보(Proactive)하는 아키텍처 설계.
 * **Key Impact:** 45개 모델 전수조사 기반의 스태킹(Stacking) 앙상블을 적용하여 병목 미탐지(False Negative)를 극도로 억제, **정확도 `93.39%`, F1-Score `86.62%`**의 SOTA 성능 달성.
 * **Artifacts:** 제조 MES 환경으로 즉각 확장이 가능한 구조로 설계하여 사전 경고 기반 유휴 인력 재배치(TOC 자원 최적화)의 실용성을 확립하고 전체 코드를 오픈소스로 배포.
-</details>
-
-<details>
-<summary><b>[경희대 경진대회 1위] 풍력 터빈 시계열 데이터 증강 및 데이터 부패 규명</b> <code>1st Place</code></summary>
-<br>
-
-* **Core Approach:** 설비 예방 정비 고장 데이터 부족 한계를 극복하기 위해, NREL 풍력 터빈 진동 데이터에 GAN 기반 데이터 증강 기법을 도입하여 최적 시계열 예측 아키텍처 모델링.
-* **Key Impact:** 데이터 증강 도입 시 예측 오차(MSE) **`59.2% 절감`** 및 연간 6억 원 이상 유지보수 예산 절감 가치를 정량적으로 입증하여 **경희대 설계 경진대회 1위** 달성.
-* **Artifacts:** 대회 이후 독자 정량 분석을 통해 화려한 오차 감소가 실은 원본 상관구조를 79.7배 왜곡하는 '숨겨진 데이터 부패' 현상이었음을 역추적하여 데이터 품질 검증 방법론을 깃허브에 공유.
 </details>
 
 ---
@@ -194,6 +194,15 @@
 * **Core Approach:** Remote DGX Spark GPU 클러스터 기반 6,530만 개(Golden Point: 4,254만) 유전 알고리즘(GA) 탐색 엔진과 10개 모델 멀티스테이지 슈퍼 스태킹 앙상블(XGBoost, LightGBM, CatBoost, SVR 등)을 구축하고[cite: 1], gRPC/WebSockets 기반 양방향 실시간 제어 파이프라인 설계[cite: 1].
 * **Key Impact:** 공정 검수 시간을 **`100.67초 → 44.72초(-55.6%)`**로 단축하고[cite: 1] $C_{pk}$를 **`0.85 → 1.67(6-Sigma 레벨)`**로 향상시켜[cite: 1], 연간 **`216억 원`**의 경제적 가치(Executive ROI **`1,480%`**) 및 탄소 배출 **`39.9톤 절감`** 입증[cite: 1].
 * **Artifacts:** Apple MacBook Pro와 Remote DGX Spark 간 실시간 6-Sigma SPC 모니터링 및 인터랙티브 GA 파라미터 튜닝이 가능한 Streamlit 대시보드와 Flask 웹 콘솔을 구축하여 오픈소스 배포[cite: 1].
+</details>
+
+<details>
+<summary><b>[손목닥터 9988 사업 참여] 서울시 헬스케어 선제적 모니터링 아키텍처</b> <code>Analysis</code></summary>
+<br>
+
+* **Core Approach:** 45만 명의 데이터를 분석해 야간 과부하 심혈관 위험을 식별하고, Random Forest 예측 모델을 뼈대로 한 '개인 맞춤형 안전 통제' 초기 헬스케어 아키텍처 설계.
+* **Key Impact:** 12개 비만 그룹별 평균 심박수 대비 통제 상·하한선(Xbar)을 설정하여, 이상 징후 선제적 알림 체계를 통해 연간 **`약 1,134억 원` 규모의 잠재적 의료 비용 절감 모델링** 입증.
+* **Artifacts:** 6개 건강 지표를 학습시켜 BMI 시뮬레이션 정밀도를 높이고 자동화 리포팅 구조를 완성하여, 현재 240만 명이 사용하는 서울시 공공 사업의 핵심 데이터 안전망 기반 확립.
 </details>
 
 <details>
@@ -212,15 +221,6 @@
 * **Core Approach:** 수동 인력 스케줄링의 극심한 피로도와 업무 불균형 해소를 위해, OptaPlanner 프레임워크와 모의 담금질(Simulated Annealing) 메타휴리스틱을 결합한 제약 조건 최적화 엔진 구축.
 * **Key Impact:** 소프트 페널티(Soft Penalty) 가중치를 정밀 조정하여 작업자 간 **배정 격차 `85%` 해소** 및 최대 연속 근무일을 3일로 강력 통제하여 **번아웃 위험성 `50%` 감소** 달성.
 * **Artifacts:** BAVET 제약 조건 엔진을 활용해 부분 점수를 고속 갱신하며, 알고리즘 내부의 페널티 평가 과정과 로드 밸런싱 결과를 시각화한 Python Streamlit 대시보드 배포.
-</details>
-
-<details>
-<summary><b>[손목닥터 9988 사업 참여] 서울시 헬스케어 선제적 모니터링 아키텍처</b> <code>Analysis</code></summary>
-<br>
-
-* **Core Approach:** 45만 명의 데이터를 분석해 야간 과부하 심혈관 위험을 식별하고, Random Forest 예측 모델을 뼈대로 한 '개인 맞춤형 안전 통제' 초기 헬스케어 아키텍처 설계.
-* **Key Impact:** 12개 비만 그룹별 평균 심박수 대비 통제 상·하한선(Xbar)을 설정하여, 이상 징후 선제적 알림 체계를 통해 연간 **`약 1,134억 원` 규모의 잠재적 의료 비용 절감 모델링** 입증.
-* **Artifacts:** 6개 건강 지표를 학습시켜 BMI 시뮬레이션 정밀도를 높이고 자동화 리포팅 구조를 완성하여, 현재 240만 명이 사용하는 서울시 공공 사업의 핵심 데이터 안전망 기반 확립.
 </details>
 
 <details>
