@@ -51,7 +51,7 @@
 </details>
 
 <details>
-<summary><b>[캐글 1위] XAI 기반 적외선(IR) 태양광 모듈 초정밀 결함 탐지</b> <code>Competition</code></summary>
+<summary><b>[캐글 1위 성능 돌파] XAI 기반 적외선(IR) 태양광 모듈 초정밀 결함 탐지</b> <code>Competition</code></summary>
 <br>
 
 * **Core Approach:** 극심한 클래스 불균형 해결을 위해 텐서 복제 기반 전처리 및 3단계 동결 해제 학습을 적용하고, 23개 비전 모델과 30개 앙상블 조합을 완전 탐색하는 파이프라인 구축.
