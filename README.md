@@ -78,6 +78,15 @@
 </details>
 
 <details>
+<summary><b>[ASTM E155 · VLM] 자동차 알루미늄 주조 방사선 VLM & FAISS RAG 비파괴검사 시스템</b> <code>Architecture</code> <code>Benchmark</code> <code>Code</code></summary>
+<br>
+
+* **Core Approach:** 자동차 알루미늄 다이캐스팅 X-Ray 결함 탐지를 위해, 512D VLM 인코더(Focal+SupCon Loss)와 ASTM E155 공식 규격 문서 RAG 검색 파이프라인 단독 구축.
+* **Key Impact:** DGX Spark CUDA 가속 기반 프레임당 **`3.4ms 초저지연`** 및 FAISS **`Recall 94.90%`**, 5-VLM 앙상블 **`Precision 94.85%`** 달성 및 **`연 1.3억 절감(ROI +310%)`** 입증.
+* **Artifacts:** MacBook Pro ↔ DGX Spark 간 실시간 스트리밍 검사 및 ASTM E155 공인 성적서 자동 발급 Streamlit UI를 구축하여 깃허브에 전 과정 오픈소스화.
+</details>
+
+<details>
 <summary><b>[CoreML] 실시간 다중 차량 인식 경량화 AI 모델</b> <code>App</code></summary>
 <br>
 
