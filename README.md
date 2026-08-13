@@ -15,7 +15,7 @@
 
 * 🎓 **Education:** 경희대학교 인공지능학과 석사 졸업 `(4.01 / 4.5)` | 수도권 4년제 대학 산업공학·데이터 전공 학사 졸업 `(4.01 / 4.5)`
 * 🎯 **Research Focus:** `Machine Vision & Edge AI` | `Enterprise AI & RAG (NL2SQL)` | `Time-Series Forecasting & PHM` | `Operations Research`
-* ✉️ **Contact:** rbals985865@naver.com | rbals985865@khu.ac.kr
+* ✉️ **Contact:**  | rbals985865@khu.ac.kr
 
 ---
 
