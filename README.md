@@ -10,7 +10,6 @@
 </p>
 </div>
 
-
 ---
 
 ## 👨‍💻 Core Competencies
