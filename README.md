@@ -14,7 +14,11 @@
 ## 👨‍💻 Core Competencies
 
 * 🎓 **Education:** 경희대학교 인공지능학과 석사 졸업 `(4.01 / 4.5)` | 수도권 4년제 대학 산업공학·데이터 전공 학사 졸업 `(4.01 / 4.5)`
-* 🎯 **Research Focus:** `Machine Vision & Edge AI` | `Enterprise AI & RAG (NL2SQL)` | `Time-Series Forecasting & PHM` | `Operations Research`
+<p>
+  <img src="https://img.shields.io/badge/NVIDIA_DGX_Spark-76B900?style=for-the-badge&logo=nvidia&logoColor=white"/>
+  <img src="https://img.shields.io/badge/128GB_System_RAM-515151?style=for-the-badge&logo=databricks&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MacBook_Pro_M5-000000?style=for-the-badge&logo=apple&logoColor=white"/>
+</p>
 * ✉️ **Contact:** rbals985865@naver.com | rbals985865@khu.ac.kr
 
 ---
