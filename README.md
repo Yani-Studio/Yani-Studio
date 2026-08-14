@@ -209,6 +209,15 @@
 </details>
 
 <details>
+<summary><b>[Microsoft Enterprise] 마이크로소프트 스마트 팩토리 디지털 트윈 & 실시간 MRP 최적화 대시보드</b> <code>Architecture</code> <code>Engine</code> <code>Code</code></summary>
+<br>
+
+* **Core Approach:** 주생산계획(MPS) 기반 8단계 다계층 BOM 폭발(DFS), 순소요량 정산($Net = Gross - Stock - Safety$), JIT 역산 발주 스케줄링 및 1,000회 몬테카를로 리드타임 지연 확률 시뮬레이션(P95) 파이프라인 구축.
+* **Key Impact:** 고정 월별 발주를 EOQ 최적 모델로 전환하여 **`연간 재고 금융 비용 60.3% 절감 ($187,420 달러 절약)`** 및 대용량 데이터 스파이크 상황에서 **`초당 12,500개 BOM 노드 처리(Latency < 5ms)`** 달성.
+* **Artifacts:** 애플 리퀴드 글라스 다크 테마 Streamlit 대시보드, PyVis 동적 3D 자재 네트워크 그래프, 9종 고해상도 시각화 분석 차트 및 시연 동영상을 구축하여 깃허브에 투명하게 오픈소스화.
+</details>
+
+<details>
 <summary><b>[손목닥터 9988 사업 참여] 서울시 헬스케어 선제적 모니터링 아키텍처</b> <code>Analysis</code></summary>
 <br>
 
