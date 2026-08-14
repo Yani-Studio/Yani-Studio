@@ -21,6 +21,7 @@
   <img src="https://img.shields.io/badge/MacBook_Pro_M5-000000?style=for-the-badge&logo=apple&logoColor=white"/>
   <img src="https://img.shields.io/badge/24GB_RAM-515151?style=for-the-badge&logo=databricks&logoColor=white"/>
 </p>
+
 ---
 
 ## 📊 Verified Credentials & Core Achievements
