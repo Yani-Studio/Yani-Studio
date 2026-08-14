@@ -46,7 +46,7 @@
 ### 👁️ 1. Vision AI & Edge Deployment
 
 <details>
-<summary><b>[SCIE 1저자] 반도체 웨이퍼 결함 분류 초경량화 AI (SCRBLAA-Net)</b> <code>Paper</code> <code>Code</code></summary>
+<summary><b>[SCIE 제조업 1저자] 반도체 웨이퍼 결함 분류 초경량화 AI (SCRBLAA-Net)</b> <code>Paper</code> <code>Code</code></summary>
 <br>
 
 * **Core Approach:** 고차원 특징을 슬라이딩 윈도우 방식으로 분할 및 토큰화하여, 대규모 이미지 모델의 고질적 과적합과 핵심 공정 데이터 유실을 원천 차단하는 공정 학습 방법론 고안.
