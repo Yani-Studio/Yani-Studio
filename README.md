@@ -17,8 +17,9 @@
 * ✉️ **Contact:** rbals985865@naver.com | rbals985865@khu.ac.kr
 <p>
   <img src="https://img.shields.io/badge/NVIDIA_DGX_Spark-76B900?style=for-the-badge&logo=nvidia&logoColor=white"/>
-  <img src="https://img.shields.io/badge/128GB_System_RAM-515151?style=for-the-badge&logo=databricks&logoColor=white"/>
+  <img src="https://img.shields.io/badge/128GB_RAM-515151?style=for-the-badge&logo=databricks&logoColor=white"/>
   <img src="https://img.shields.io/badge/MacBook_Pro_M5-000000?style=for-the-badge&logo=apple&logoColor=white"/>
+  <img src="https://img.shields.io/badge/24GB_RAM-515151?style=for-the-badge&logo=databricks&logoColor=white"/>
 </p>
 ---
 
