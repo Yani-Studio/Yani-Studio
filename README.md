@@ -209,7 +209,7 @@
 </details>
 
 <details>
-<summary><b>[Microsoft Enterprise] 마이크로소프트 스마트 팩토리 디지털 트윈 & 실시간 MRP 최적화 대시보드</b> <code>Architecture</code> <code>Engine</code> <code>Code</code></summary>
+<summary><b>[Microsoft Enterprise] 스마트 팩토리 디지털 트윈 & 실시간 MRP 최적화 대시보드</b> <code>Architecture</code> <code>Engine</code> <code>Code</code></summary>
 <br>
 
 * **Core Approach:** 주생산계획(MPS) 기반 8단계 다계층 BOM 폭발(DFS), 순소요량 정산($Net = Gross - Stock - Safety$), JIT 역산 발주 스케줄링 및 1,000회 몬테카를로 리드타임 지연 확률 시뮬레이션(P95) 파이프라인 구축.
