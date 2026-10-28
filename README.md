@@ -13,7 +13,7 @@
 
 ## 👨‍💻 Core Competencies
 
-* 🎓 **Education:** 경희대학교 인공지능학과 석사 졸업 `(4.01 / 4.5)` | 수도권 4년제 대학 산업공학·데이터 전공 학사 졸업 `(4.01 / 4.5)`
+* 🎓 **Education:** 경희대학교 인공지능학과 석사 졸업 `(4.01 / 4.5)` 
 * ✉️ **Contact:** rbals985865@naver.com | rbals985865@khu.ac.kr
 <p>
   <img src="https://img.shields.io/badge/NVIDIA_DGX_Spark-76B900?style=for-the-badge&logo=nvidia&logoColor=white"/>
